@@ -1,1 +1,1 @@
-# psychological_counseling_chatbot
+# BART는 손상된 문서를 원본 문서에 매핑하는 노이즈 제거 자동 인코더이다.
